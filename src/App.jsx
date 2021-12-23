@@ -1,9 +1,10 @@
 import "./App.css";
 
+
 function App() {
   return (
-    <div className="Toma">
-      <p>Hi</p>
+    <div className="App-header">
+      <p>Hello World</p>
     </div>
   );
 }
