@@ -2,7 +2,7 @@
   text-align: center;
 }
 .App-header {
-  background-color: #0054fd;
+  background-color: #09204e;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -11,3 +11,15 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.Toma{
+  background-color: #09204e;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
